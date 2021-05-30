@@ -1,5 +1,4 @@
-# Hospital Information
-Project Idea Submitted For Silicon Valley
+Hospital Information
 
 Disclaimer : The data shown is dummy data, for demonstration purposes only.
 
@@ -9,3 +8,8 @@ It will help the user to find nearest hospitals with information about availabil
 The information will be shown on google map so that the user can quickly locate & contact the required hospital.
 It will be extremely useful in the current pandemic situation.
 The code cannot be submitted due to use of personal google API, can be demonstrated (as shown in screenshot) if the project is selected for Silicon Valley.
+
+
+
+
+
